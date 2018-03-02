@@ -1,5 +1,3 @@
-package com.company;
-
 public class LinkedList<DataType>
 {
     private LinkedNode<DataType>    front_element = null;

@@ -1,5 +1,3 @@
-package com.company;
-
 public final class LinkedNode<DataType> {
 
     DataType                  data;
