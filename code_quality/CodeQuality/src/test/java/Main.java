@@ -3,6 +3,7 @@ import org.junit.Test;
 
 public class Main {
 
+    @Test
     public static void main(String[] args) {
 
         LinkedList<Integer> my_list = new LinkedList<Integer>();
